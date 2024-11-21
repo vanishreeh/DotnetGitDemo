@@ -50,7 +50,7 @@
             decimal d = (decimal)num2;
             int mark = (int)num2;
 
-                
+            Console.WriteLine("Changing the code");
 
         }
     }
