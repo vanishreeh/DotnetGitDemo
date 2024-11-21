@@ -51,6 +51,7 @@
             int mark = (int)num2;
 
             Console.WriteLine("Changing the code");
+            Console.WriteLine("Second change");
 
         }
     }
